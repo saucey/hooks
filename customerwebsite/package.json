@@ -28,7 +28,7 @@
     "@types/recompose": "^0.30.3",
     "@types/redux-logger": "^3.0.6",
     "adal-ts": "^0.6.0",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "bootstrap": "^4.3.0",
     "classnames": "^2.2.6",
     "connected-react-router": "^6.3.1",
